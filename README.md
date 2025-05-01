@@ -19,6 +19,9 @@ The vision of this project is to revolutionize the music streaming industry by u
 
 ### Contract Address: CAI6RAFOIKCJ2G4NEWL5TPJ2UOOC4KSWGCRPOCGYH64B7OYRXL6NDPWB
 
+![image](https://github.com/user-attachments/assets/b3273e88-1a67-4808-9dae-37486e64fed1)
+
+
 The `MusicStreamingContract` provides the following key functionalities:
 1. **Create Track**: Artists can create and upload their music tracks. The track includes details like the title, album, duration, and price to listen.
    - **Function**: `create_track`
@@ -39,3 +42,5 @@ The `MusicStreamingContract` provides the following key functionalities:
    - **Function**: `get_track`
    - **Inputs**: `track_id`
    - **Outputs**: `MusicTrack`
+
+
